@@ -15,7 +15,7 @@ export default function Home() {
           <br />
           <br />
           <input
-            type="number"
+            type=""
             id="phone"
             name="phone"
             placeholder="7208275346"
